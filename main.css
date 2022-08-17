@@ -1,0 +1,19 @@
+/*
+颜色
+主题色：#00ffa6
+浅色：#00aaff
+浅背景色：#66ccff
+深色：#003350
+*/
+
+body{
+    background-color: #fff;
+}
+p{
+    color: #fff;
+}
+a{text-decoration: none;color: #fff;}
+a:hover{color: #00aaff;}
+.red{
+    color: red;
+}
