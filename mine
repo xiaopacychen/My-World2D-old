@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My World2D|cyc</title>
+<!--css-->
+<link rel="stylesheet" type="text/css" href="css/mine.css">
+<link rel="stylesheet" type="text/css" href="css/head.css">
+<link rel="stylesheet" type="text/css" href="css/body.css">
+<!--js-->
+<script type="text/js" src="js/mine.js"></script>
+</head>
+<body>
+    <div id='head'>
+        <div id="head-text"><p>My World2D</p></div>
+    </div>
+    <div id="body">
+        <div class="body-first">
+            <div><img src="https://xiaopacychen.github.io/My World2D/exit.svg"></div>
+            <div class='body-text body-first-text'>         
+                <h2>简介</h2>
+                <p>这是一款由一位中国的12岁学生(网站作者本人)于2022年暑假打造的，基于Scratch的2D沙盒类页游。</p>
+                <a href="https://xiaopacychen.github.io/cyc.github.io/">[关于作者]</a>
+            
+            </div>
+        </div>
+
+        <div class='body-text'>
+            <h2>意义</h2>
+            <p>且来听一段故事：</p>
+            <p>2021年的某一天，我兴奋的薅走父亲的笔记本，熟练的打开Java版minecraft。因为繁华矿洞和浅声植物更新了！！！</p>
+            <p>然后我就发现[某酱]推迟了浅声植物的更新...</p>
+            <p>我*******某酱为什么这么懒啊！</p>
+            <p>于是我决定自己做一个mc(没错就是这么大胆)。但由于本人当时3D方面的知识欠缺，加上只会Scratch，因此用不了unity3D等等。于是决定做一个2D我的世界...</p>
+            <p>然后</p>
+            <p>经过1年的断断续续的更新，我做废了两个版本。</p>
+            <p>终于，第三个版本的整体结构已经比较完善了。</p>
+            <p>ta的意义也许就是用一种相对简单的方式体验那些没能在mc里体验到的东西吧</p>
+            <p>对于作者本人来说，算是体验了一把notch开发minecraft时的快乐吧...</p>
+
+
+            <h2>警告与声明</h2>
+            <p class='red'>请勿转载本游戏的程序、素材谢谢！我不希望ta烂大街的满地都是</p>
+            <p>本游戏部分素材来自minecraft，但程序完全由本人手写</p>
+            <h2>操作方法</h2>
+            <p>移动；ad</p>
+            <p>跳跃：w</p>
+            <p>快捷栏选择：qe</p>
+            <p>清除所有数据：c+f</p>
+            <p>保存：c+g</p>
+            <p>显示鼠标坐标：c+空格</p>
+        </div>
+    </div>
+</body>
+</html>
