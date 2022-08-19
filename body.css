@@ -1,21 +1,24 @@
-#body{
+.body{
     width: 100%;
-    height: 10000px;
-    background-color: #fff;
-    background-image: linear-gradient(90deg, #73e699 , #7dfae3);
+    background-color: #111;
     float: left;
 }
 .body-text{
     margin-top: 0px;
     width: 90%;
-    height: 100px;
     margin-left: 10px;
+    float: left;
+    background-repeat:no-repeat;
 }
 .body-text h2{
     font-size: 200%;
     text-decoration:overline;
     text-indent: 0px;
-    color: #fff;
+}
+.body-text h3{
+    font-size: 150%;
+    text-decoration:overline;
+    text-indent: 0px;
 }
 .body-text p{
     text-indent: 20px;
@@ -25,16 +28,70 @@
 .body-text a{
     font-size: 120%;
 }
+.body-text img{
+    float: center;
+}
+.body-img{
+    width: 100%;
+    float: left;
+    background-repeat:no-repeat;
+    margin-top: 25px;
+}
+
 
 
 .body-first{
     width: 100%;
     height: 300px;
-    background-image:url('');
-background-repeat:no-repeat;
+    background-color: #00aaff;
+    background-image: url(https://xiaopacychen.github.io/My-World2D/background-a.png);
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+
 }
-.body-first-text{
-    width: 50%;
+
+
+
+
+
+/*个性化定义*/
+
+.body-text-jianjie{
+    width: 100%;
     float: left;
     margin-left: 10px;
 }
+.body-text-jianjie a:hover{
+    color: #73e699;
+}
+
+
+.body-img-xiangqing{
+    background-color: #0077ff;
+    background-image: url(https://xiaopacychen.github.io/My-World2D/text-background-first.png);
+    background-size: 100%;
+    background-position: 100% 100%;
+}
+.body-img-shengming{
+    background-color: #00aaff;
+    background-image: url(https://xiaopacychen.github.io/My-World2D/text-background-b.png);
+    background-size: 50%;
+    background-position: 100% 100%;
+}
+.body-img-jinggao{
+    background-color: #0077ff;
+    background-image: url(https://xiaopacychen.github.io/My-World2D/text-background-a.png);
+    background-size: 100%;
+    background-position: 100% 100%;
+}
+.body-img-yiyi{
+    background-color: #000;
+    background-image: url(https://xiaopacychen.github.io/My-World2D/text-background-second.png);
+    background-size: 100%;
+    background-position: 100% 100%;
+}
+.body-img-caozuofangfa{
+    background-color: #0077ff;
+}
+

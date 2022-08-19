@@ -7,7 +7,7 @@
 */
 
 body{
-    background-color: #fff;
+    background-color: #111;
 }
 p{
     color: #fff;
@@ -17,3 +17,5 @@ a:hover{color: #00aaff;}
 .red{
     color: red;
 }
+h2{color: #fff;}
+h3{color: #fff;}
