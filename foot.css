@@ -22,3 +22,18 @@
     margin-top: 0px;
     font-size: 50%;
 }
+.foot-counter{
+    width: 100%;
+    height: 50px;
+    background-color: #00aaff;
+    margin-top: 10px;
+
+}
+.foot-counter a{
+    float: left;
+    margin-top: 15px;
+}
+.foot-counter p{
+    float: left;
+    text-indent: 10px;
+}
